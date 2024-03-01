@@ -1,0 +1,118 @@
+@import url('https://fonts.cdnfonts.com/css/jua');
+
+body {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+.authorizationContainer {
+    width: 1440px;
+    background-color: rgba(255, 232, 224, 1);
+    display: flex;
+    justify-content: center;
+}
+
+.logInContainer {
+    display: flex;
+    margin-top: 143px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 712px;
+}
+
+.logInLogo {
+    width: 321px;
+    height: 52px;
+}
+
+.authorization {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 110px;
+    flex-direction: column;
+    gap: 58px;
+}
+
+
+.authorizationInput {
+    background-color: rgba(255, 249, 247, 1);
+    width: 712px;
+    height: 99px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    font-family: "Jua", sans-serif;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 77px;
+    letter-spacing: 0;
+    text-align: left;
+    color: rgba(255, 175, 158, 1);
+    padding-left: 50px;
+}
+
+
+.forgotPassword {
+    font-family: "Jua", sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 58px;
+    letter-spacing: 0;
+    color: rgba(122, 154, 240, 1);
+    width: 712px;
+    height: 58px;
+    text-align: right;
+    margin-top: 52px;
+    margin-bottom: 52px;
+}
+
+.buttonGoBox {
+    
+
+.buttonGo {
+    font-family: "Jua", sans-serif;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 77px;
+    letter-spacing: 0;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(255, 175, 158, 1);
+    width: 712px;
+    height: 99px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+}
+
+.signUpBox {
+    display: flex;
+    align-items: center;
+    margin-top: 21px;
+    margin-bottom: 21px;
+}
+
+.moveToSignUpLink {
+    font-family: "Jua", sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 58px;
+    letter-spacing: 0;
+    color: rgba(122, 154, 240, 1);
+}
+
+.signUpLink {
+    padding-left: 25px;
+    font-family: "Jua", sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 77px;
+    letter-spacing: 0;
+    text-align: left;
+    color: rgba(255, 175, 158, 1);
+}
